@@ -44,6 +44,8 @@ This project aims to provide a comprehensive data visualization and exploration 
 ## Contact
 
 If you have any questions or feedback, please reach out to 
--Linkdin : (https://www.linkedin.com/in/vigneshwaran-r-300a501a5/)
--Gmail : (mailto:vigneshoffical861@gmail.com)
+
+
+- Linkdin : (https://www.linkedin.com/in/vigneshwaran-r-300a501a5/)
+- Gmail : (mailto:vigneshoffical861@gmail.com)
     
