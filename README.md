@@ -21,7 +21,7 @@ This project aims to provide a comprehensive data visualization and exploration 
 - **Plotly**: For creating interactive charts and maps.
 - **Pandas**: For data manipulation and analysis.
 - **Requests and JSON**: For fetching geographical data for maps.
-- **Github Cloning**: For clone the Github PhonePe pulse repository to our loaction machine.
+- **Github Cloning**: For clone the Github PhonePe pulse repository to our local machine.
 - **Python Scripting**: Fetch the data from PhonePe Pulse repository, manipulate and pre-process the data.
 
 ## Installation
